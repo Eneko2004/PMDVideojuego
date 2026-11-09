@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 20cb4ce082d8224488edf8e341866693
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "EcobotDa\xF1o2_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 123
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 123, w: 0}
+      customData: 
+      outline:
+      - - {x: 61.5, y: 44}
+        - {x: 58.5, y: 54}
+        - {x: 37.5, y: 57}
+        - {x: -61.5, y: 57}
+        - {x: -61.5, y: -57}
+        - {x: 61.5, y: -57}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f334753d9207d48b06b0aa4becf80e
+      internalID: -1901351098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "EcobotDa\xF1o2_1"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 147
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 73.5, y: -56}
+        - {x: 73.5, y: 42}
+        - {x: 63.5, y: 57}
+        - {x: -69.5, y: 57}
+        - {x: -73.5, y: 43}
+        - {x: -73.5, y: -24}
+        - {x: -66.5, y: -57}
+        - {x: 72.5, y: -57}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd505ee693248784cb95e0785c2c552b
+      internalID: 147659788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "EcobotDa\xF1o2_2"
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 0
+        width: 142
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 71, y: 39}
+        - {x: 48, y: 57}
+        - {x: -58, y: 57}
+        - {x: -71, y: 53}
+        - {x: -71, y: 16}
+        - {x: -67, y: -6}
+        - {x: -49, y: -57}
+        - {x: 71, y: -57}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c7d9999b2a36642b8d8ac247e28444
+      internalID: 1845573005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "EcobotDa\xF1o2_3"
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 131
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 65.5, y: -55}
+        - {x: 65.5, y: 32}
+        - {x: 58.5, y: 57}
+        - {x: -65.5, y: 57}
+        - {x: -65.5, y: -53}
+        - {x: -53.5, y: -57}
+        - {x: 60.5, y: -57}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56574cd44ad5fa64d9b40901a3a00502
+      internalID: -74960746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "EcobotDa\xF1o2_4"
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 0
+        width: 152
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 76, y: -55}
+        - {x: 76, y: 24}
+        - {x: 60, y: 46}
+        - {x: 34, y: 57}
+        - {x: -25, y: 57}
+        - {x: -36, y: 54}
+        - {x: -58, y: 40}
+        - {x: -64, y: 26}
+        - {x: -64, y: -33}
+        - {x: -57, y: -57}
+        - {x: 74, y: -57}
+      - - {x: -73, y: -12}
+        - {x: -73, y: -9}
+        - {x: -76, y: -8}
+        - {x: -76, y: -13}
+      - - {x: -67, y: -43}
+        - {x: -67, y: -40}
+        - {x: -70, y: -39}
+        - {x: -72, y: -41}
+        - {x: -70, y: -44}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c721f1e864400654cbd7c73bcb3dc2cd
+      internalID: 2009385882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c4ae8dd3359a0e44a876d47a2d2dca7b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "EcobotDa\xF1o2_0": -1901351098
+      "EcobotDa\xF1o2_1": 147659788
+      "EcobotDa\xF1o2_2": 1845573005
+      "EcobotDa\xF1o2_3": -74960746
+      "EcobotDa\xF1o2_4": 2009385882
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
