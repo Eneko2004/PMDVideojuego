@@ -7,8 +7,9 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 /[Mm]emoryCaptures/
+/[Rr]ecordings/
 
-# Archivos de solución de Visual Studio / VS Code
+# Archivos de solución e IDEs
 /*.csproj
 /*.unityproj
 /*.sln
@@ -25,6 +26,11 @@
 /.vs/
 /.vscode/
 /.idea/
+
+# Builds y paquetes locales
+*.apk
+*.aab
+*.unitypackage
 
 # Sistema operativo
 .DS_Store
